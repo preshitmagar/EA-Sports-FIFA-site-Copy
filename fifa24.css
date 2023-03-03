@@ -156,7 +156,7 @@ body {
 #one::before{
     content:"";
     position: absolute;
-    background: url(Pics/1mabappes.jpg);
+    background: url(1mabappes.jpg);
     background-size:105%;
     height: 900px;
     width: 100%;
@@ -250,7 +250,7 @@ body {
     height: 900px;
     width: 100%;
     position: absolute;
-    background: url(Pics/backgroundfifa.jpg);
+    background: url(backgroundfifa.jpg);
     overflow: hidden;
     opacity: 0.7;
     
@@ -418,7 +418,7 @@ body {
     height: 800px;
     width: 100%;
     position: absolute;
-    background: url(Pics/1607452.png);
+    background: url(1607452.png);
     background-size: 90%;
     overflow: hidden;
     opacity: 0.7;
